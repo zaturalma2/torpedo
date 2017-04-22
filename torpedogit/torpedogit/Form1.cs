@@ -14,7 +14,8 @@ namespace torpedogit
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();ű
+                kljhmghb,mhgbghg
         }
     }
 }
